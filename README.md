@@ -1,2 +1,4 @@
+<<<<<<< HEAD
 # gitskills
-elong to learngt
+belong to learngit
+Creating a new branch is quick and simple & ....
