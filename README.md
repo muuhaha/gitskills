@@ -1,5 +1,2 @@
-# gitskills
 belong to learngit
-Creating a new branch is quick and simple.
-Dev in windows.
-vagrant dev edit.
+Creating a new branch is quick and simple & ....
